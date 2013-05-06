@@ -2,7 +2,7 @@ package cwk4229.flatcraftpluginminecraft.github.Flatcraftcwk4229.class
 
 import java.util.logging.Logger;
 
- public class Flatcraftcwk4229 extends JAvaPlugin{
+ public class Flatcraftcwk4229 extends JavaPlugin{
 	 public final Logger logger = Logger.getLogger("Minecraft");
 	 public static Flatcraftcwk4229 plugin;
 	 
